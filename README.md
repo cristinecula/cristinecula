@@ -10,7 +10,7 @@
 
 ## pionjs - React's Hooks API for Web Components
 
-[github.com/pionjs/pion](https://github.com/pionjs/pion)
+[**pionjs.com**](https://pionjs.com) (site & docs) · [github.com/pionjs/pion](https://github.com/pionjs/pion)
 
 - React's Hooks API implemented natively for Web Components (lit-html underneath) - so hook-style logic works inside plain custom elements, framework-agnostic
 - Runs in production across the [Cosmoz](https://cosmoz.com) platform; maintained together with my colleagues at Plumelo
