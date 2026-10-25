@@ -21,4 +21,4 @@ JavaScript (ES modules) · TypeScript · **Web Components** · Lit / lit-html ·
 
 ## Connect
 
-[💼 LinkedIn](https://www.linkedin.com/in/cristian-necula-7b744843/) · [✉️ cristian.ncl@gmail.com](mailto:cristian.ncl@gmail.com) · [📄 Résumés](https://github.com/cristinecula/cv)
+[💼 LinkedIn](https://www.linkedin.com/in/cristian-necula-7b744843/) · [✉️ cristian.ncl@gmail.com](mailto:cristian.ncl@gmail.com) · [📄 Résumés](https://cristinecula.github.io)
