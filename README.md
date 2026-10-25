@@ -17,7 +17,7 @@
 
 ## Tech I work with
 
-JavaScript (ES modules) · TypeScript · **Web Components** · Lit / lit-html · React (hooks internals + app dev) · pionjs · Node.js (Express, Koa) · PHP / Symfony · MySQL · Docker · Varnish · Ansible · GitHub Actions · PollyJS / e2e
+JavaScript (ES modules) · TypeScript · **Web Components** · Lit / lit-html · React · pionjs · Node.js (Express, Koa) · PHP / Symfony · MySQL · Docker · Varnish · Ansible · GitHub Actions · PollyJS / e2e
 
 ## Connect
 
